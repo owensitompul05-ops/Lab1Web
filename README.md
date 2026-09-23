@@ -65,6 +65,7 @@ Seluruh elemen di atas digabungkan menjadi satu halaman utuh pada
 ## Screenshot
 
 <img src="https://raw.githubusercontent.com/owensitompul05-ops/Lab1Web/main/images/Capture.PNG" width="600" alt="Capture Output">
+<img src="https://raw.githubusercontent.com/owensitompul05-ops/Lab1Web/main/images/ss.PNG" width="600" alt="Capture Output">
 
 ## Jawaban Pertanyaan Praktikum
 

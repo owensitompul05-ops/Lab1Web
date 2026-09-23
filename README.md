@@ -64,7 +64,7 @@ Seluruh elemen di atas digabungkan menjadi satu halaman utuh pada
 
 ## Screenshot
 
-![Capturee Output](images/apture.png)
+<img src="https://raw.githubusercontent.com/owensitompul05-ops/Lab1Web/main/images/Capture.PNG" width="600" alt="Capture Output">
 
 ## Jawaban Pertanyaan Praktikum
 

@@ -6,14 +6,14 @@ pemformatan teks, hyperlink, gambar, list, dan komentar HTML.
 
 ## Struktur Folder
 
-```
 Lab1Web/
 ├── index.html
 ├── halaman2.html
 ├── images/
-│   └── profil.jpg
+│   ├── profil.jpg
+│   └── capture.png
 └── README.md
-```
+
 
 ## Penjelasan Langkah Praktikum
 
@@ -64,44 +64,42 @@ Seluruh elemen di atas digabungkan menjadi satu halaman utuh pada
 
 ## Screenshot
 
-> Tambahkan screenshot hasil tampilan browser di setiap tahap pada
-> bagian ini (misalnya: `screenshots/tahap1.png`, dst.) sesuai hasil
-> pengujian di komputer masing-masing.
+![Capture Output](images/capture.png)
 
 ## Jawaban Pertanyaan Praktikum
 
 1. **Fungsi `<!DOCTYPE html>`** — Memberitahu browser bahwa dokumen
-   menggunakan standar HTML5, agar browser me-render halaman sesuai
-   standar tersebut.
+    menggunakan standar HTML5, agar browser me-render halaman sesuai
+    standar tersebut.
 2. **Perbedaan tag, elemen, dan atribut** — Tag adalah penanda
-   pembuka/penutup (`<p>`, `</p>`); elemen adalah gabungan tag
-   pembuka, isi, dan tag penutup; atribut adalah informasi tambahan
-   yang ditulis di dalam tag pembuka (misalnya `href`, `src`).
+    pembuka/penutup (`<p>`, `</p>`); elemen adalah gabungan tag
+    pembuka, isi, dan tag penutup; atribut adalah informasi tambahan
+    yang ditulis di dalam tag pembuka (misalnya `href`, `src`).
 3. **Perbedaan `<p>` dan `<br>`** — `<p>` membuat paragraf baru dengan
-   jarak/margin di atas dan bawahnya, sedangkan `<br>` hanya
-   memindahkan teks ke baris baru tanpa membuat paragraf baru.
+    jarak/margin di atas dan bawahnya, sedangkan `<br>` hanya
+    memindahkan teks ke baris baru tanpa membuat paragraf baru.
 4. **Fungsi atribut `href`** — Menentukan URL atau alamat tujuan dari
-   sebuah hyperlink pada tag `<a>`.
+    sebuah hyperlink pada tag `<a>`.
 5. **Hyperlink internal vs eksternal** — Hyperlink internal mengarah
-   ke halaman/bagian dalam website yang sama (misalnya
-   `halaman2.html`), sedangkan hyperlink eksternal mengarah ke website
-   lain di luar domain (misalnya `https://www.google.com`).
+    ke halaman/bagian dalam website yang sama (misalnya
+    `halaman2.html`), sedangkan hyperlink eksternal mengarah ke website
+    lain di luar domain (misalnya `https://www.google.com`).
 6. **Fungsi `src` dan `alt` pada `<img>`** — `src` menentukan lokasi
-   atau path file gambar yang ditampilkan, sedangkan `alt` memberikan
-   teks alternatif jika gambar gagal dimuat serta membantu
-   aksesibilitas.
+    atau path file gambar yang ditampilkan, sedangkan `alt` memberikan
+    teks alternatif jika gambar gagal dimuat serta membantu
+    aksesibilitas.
 7. **Perbedaan `<ul>` dan `<ol>`** — `<ul>` menampilkan daftar tanpa
-   urutan/nomor (bullet), sedangkan `<ol>` menampilkan daftar
-   berurutan dengan nomor.
+    urutan/nomor (bullet), sedangkan `<ol>` menampilkan daftar
+    berurutan dengan nomor.
 8. **Jika path gambar salah** — Gambar tidak akan tampil di browser,
-   biasanya hanya muncul ikon gambar rusak beserta teks dari atribut
-   `alt`.
+    biasanya hanya muncul ikon gambar rusak beserta teks dari atribut
+    `alt`.
 9. **Pentingnya struktur heading terstruktur (h1–h6)** — Membantu
-   pembaca dan mesin pencari memahami hierarki dan struktur konten
-   halaman, serta meningkatkan aksesibilitas dan SEO.
+    pembaca dan mesin pencari memahami hierarki dan struktur konten
+    halaman, serta meningkatkan aksesibilitas dan SEO.
 10. **Fungsi komentar `<!-- ... -->`** — Memberi catatan/penjelasan
-    pada kode tanpa ditampilkan di browser, serta dapat digunakan
-    untuk menonaktifkan sementara bagian kode saat proses pengembangan.
+     pada kode tanpa ditampilkan di browser, serta dapat digunakan
+     untuk menonaktifkan sementara bagian kode saat proses pengembangan.
 
 ---
 Dibuat untuk memenuhi tugas Praktikum 1: HTML Dasar — Mata Kuliah

@@ -64,7 +64,7 @@ Seluruh elemen di atas digabungkan menjadi satu halaman utuh pada
 
 ## Screenshot
 
-![Capture Output](images/capture.png)
+![Capturee Output](images/apture.png)
 
 ## Jawaban Pertanyaan Praktikum
 
